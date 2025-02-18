@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/y-cCxl8uEw0AAAAC/yetopen.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
