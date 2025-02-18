@@ -39,8 +39,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/44tico/44tico/output/snake.svg" alt="Snake animation" />
 
 ###
